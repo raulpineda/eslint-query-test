@@ -1,0 +1,18 @@
+{
+  "name": "eslint-query-test",
+  "version": "0.0.1",
+  "description": "Minimal repo to show @tanstack/query/prefer-query-object-syntax not working as expected",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx eslint ."
+  },
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "@tanstack/react-query": "^4.36.1"
+  },
+  "devDependencies": {
+    "@tanstack/eslint-plugin-query": "^4.36.1",
+    "eslint": "^8.56.0"
+  }
+}
