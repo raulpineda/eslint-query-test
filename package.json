@@ -9,7 +9,8 @@
   "author": "",
   "license": "Unlicense",
   "dependencies": {
-    "@tanstack/react-query": "^4.36.1"
+    "@tanstack/react-query": "^4.36.1",
+    "@typescript-eslint/parser": "^6.15.0"
   },
   "devDependencies": {
     "@tanstack/eslint-plugin-query": "^4.36.1",

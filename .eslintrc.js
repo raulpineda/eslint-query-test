@@ -1,5 +1,6 @@
 module.exports = {
   plugins: ["@tanstack/query"],
+  parser: "@typescript-eslint/parser",
   parserOptions: {
     ecmaVersion: "latest",
     sourceType: "module",
